@@ -59,7 +59,7 @@ order: 1
 
 Designers can take their design to production in a matter of seconds.
 
-Here are the steps for creating a website from an Adobe XD document:
+Here are the steps for creating a website from an Figma document:
 
 1. Design your website in **Figma** where each web page is represented by a frame
 2. Add **Links**, **Forms & Text Inputs**, **Videos**, **Hover Effects**, and other Smart Layers
